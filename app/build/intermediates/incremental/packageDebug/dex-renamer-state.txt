@@ -1,0 +1,7 @@
+#Sat Sep 16 15:35:23 EDT 2017
+base.0=C\:\\Users\\Zachary Feng\\libmuse_6.0.1\\android\\examples\\TestLibMuseAndroid\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_3fbed04438c3b3a3a2c28480defdcc6977c3c7e4
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\Zachary Feng\\libmuse_6.0.1\\android\\examples\\TestLibMuseAndroid\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_e80435073924cf957b835f825edd884334d42e45\\classes.dex
+base.1=C\:\\Users\\Zachary Feng\\libmuse_6.0.1\\android\\examples\\TestLibMuseAndroid\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_e80435073924cf957b835f825edd884334d42e45
+file.0=C\:\\Users\\Zachary Feng\\libmuse_6.0.1\\android\\examples\\TestLibMuseAndroid\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_3fbed04438c3b3a3a2c28480defdcc6977c3c7e4\\classes.dex

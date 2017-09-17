@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Zachary Feng\libmuse_6.0.1\android\examples\TestLibMuseAndroid\app\libs\libmuse_android.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ff5869a43a5bebf2f95b7643cc818206bc3ccb22">
+        <dex dex="C:\Users\Zachary Feng\libmuse_6.0.1\android\examples\TestLibMuseAndroid\app\build\intermediates\pre-dexed\debug\libmuse_android_4e133bc65945dbbe4f904db8f860241ea5639d83.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zachary Feng\libmuse_6.0.1\android\examples\TestLibMuseAndroid\app\libs\libmuse_android.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ff5869a43a5bebf2f95b7643cc818206bc3ccb22">
+        <dex dex="C:\Users\Zachary Feng\libmuse_6.0.1\android\examples\TestLibMuseAndroid\app\build\intermediates\transforms\dex\debug\folders\1000\2\libmuse_android_4e133bc65945dbbe4f904db8f860241ea5639d83\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zachary Feng\libmuse_6.0.1\android\examples\TestLibMuseAndroid\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\Zachary Feng\libmuse_6.0.1\android\examples\TestLibMuseAndroid\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_3fbed04438c3b3a3a2c28480defdcc6977c3c7e4\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Zachary Feng\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="C:\Users\Zachary Feng\libmuse_6.0.1\android\examples\TestLibMuseAndroid\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.1_d576bca80f0004db587fc5aac2fc9f6f79eafe8d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Zachary Feng\.android\build-cache\7f48611d8dee554f738793043a7212b3ea7f428f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="C:\Users\Zachary Feng\libmuse_6.0.1\android\examples\TestLibMuseAndroid\app\build\intermediates\pre-dexed\debug\classes_596f079f8ddec3de01ffd9439bafbee49d2a667f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zachary Feng\libmuse_6.0.1\android\examples\TestLibMuseAndroid\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1bb9dcb0dc8eea39032bfc80779fc0c0624ed999">
+        <dex dex="C:\Users\Zachary Feng\libmuse_6.0.1\android\examples\TestLibMuseAndroid\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_e80435073924cf957b835f825edd884334d42e45\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Zachary Feng\.android\build-cache\7f48611d8dee554f738793043a7212b3ea7f428f\output\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="C:\Users\Zachary Feng\libmuse_6.0.1\android\examples\TestLibMuseAndroid\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.1_0c97553b9f8619364fc33b505adc722a5714d622.jar" />
+    </item>
+
+</items>

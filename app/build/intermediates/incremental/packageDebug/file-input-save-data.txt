@@ -1,0 +1,27 @@
+#Internal package file, do not edit.
+#Sat Sep 16 15:35:24 EDT 2017
+2.base=C\:\\Users\\Zachary Feng\\libmuse_6.0.1\\android\\examples\\TestLibMuseAndroid\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_3fbed04438c3b3a3a2c28480defdcc6977c3c7e4
+5.file=C\:\\Users\\Zachary Feng\\libmuse_6.0.1\\android\\examples\\TestLibMuseAndroid\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_main.xml
+5.set=ANDROID_RESOURCE
+3.base=C\:\\Users\\Zachary Feng\\libmuse_6.0.1\\android\\examples\\TestLibMuseAndroid\\app\\build\\intermediates\\res\\resources-debug.ap_
+6.file=C\:\\Users\\Zachary Feng\\libmuse_6.0.1\\android\\examples\\TestLibMuseAndroid\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+2.set=DEX
+4.base=C\:\\Users\\Zachary Feng\\libmuse_6.0.1\\android\\examples\\TestLibMuseAndroid\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_e80435073924cf957b835f825edd884334d42e45
+7.file=C\:\\Users\\Zachary Feng\\libmuse_6.0.1\\android\\examples\\TestLibMuseAndroid\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu\\main.xml
+7.set=ANDROID_RESOURCE
+count=8
+0.file=C\:\\Users\\Zachary Feng\\libmuse_6.0.1\\android\\examples\\TestLibMuseAndroid\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\ic_launcher.png
+5.base=C\:\\Users\\Zachary Feng\\libmuse_6.0.1\\android\\examples\\TestLibMuseAndroid\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.set=DEX
+6.base=C\:\\Users\\Zachary Feng\\libmuse_6.0.1\\android\\examples\\TestLibMuseAndroid\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.file=C\:\\Users\\Zachary Feng\\libmuse_6.0.1\\android\\examples\\TestLibMuseAndroid\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\folders\\2000\\1f\\main\\lib\\armeabi-v7a\\libmuse_android.so
+1.set=NATIVE_RESOURCE
+7.base=C\:\\Users\\Zachary Feng\\libmuse_6.0.1\\android\\examples\\TestLibMuseAndroid\\app\\build\\intermediates\\res\\resources-debug.ap_
+2.file=C\:\\Users\\Zachary Feng\\libmuse_6.0.1\\android\\examples\\TestLibMuseAndroid\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_3fbed04438c3b3a3a2c28480defdcc6977c3c7e4\\classes.dex
+6.set=ANDROID_RESOURCE
+0.base=C\:\\Users\\Zachary Feng\\libmuse_6.0.1\\android\\examples\\TestLibMuseAndroid\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=C\:\\Users\\Zachary Feng\\libmuse_6.0.1\\android\\examples\\TestLibMuseAndroid\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+3.set=ANDROID_RESOURCE
+1.base=C\:\\Users\\Zachary Feng\\libmuse_6.0.1\\android\\examples\\TestLibMuseAndroid\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\folders\\2000\\1f\\main
+4.file=C\:\\Users\\Zachary Feng\\libmuse_6.0.1\\android\\examples\\TestLibMuseAndroid\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_e80435073924cf957b835f825edd884334d42e45\\classes.dex
+0.set=ANDROID_RESOURCE
